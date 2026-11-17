@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://honemix-machinery.github.io/sitemap.xml
